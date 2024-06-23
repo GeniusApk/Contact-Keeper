@@ -2,6 +2,16 @@
 
 Contact Keeper is an Android application that allows users to manage their contacts efficiently. It supports adding, editing, and deleting contacts, as well as assigning a profile photo to each contact. The app is built using MVVM architecture with Dependency Injection and Room database. It utilizes Material3 for a modern and cohesive UI design.
 
+
+## Download
+
+ You can download the latest version by clicking the button below.
+
+<a href="https://github.com/GeniusApk/IND_News/releases/download/v1.1/app-debug.apk" download>
+  <img src="https://img.shields.io/badge/download-latest-blue" alt="Download">
+</a>
+
+
 ## Features
 
 - **Add Contacts:** Add new contacts with name, phone number, email, and profile photo.
@@ -20,7 +30,7 @@ Contact Keeper is an Android application that allows users to manage their conta
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/contactkeeper.git
+    git clone https://github.com/GeniusApk/contactkeeper.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
