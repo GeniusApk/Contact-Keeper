@@ -23,10 +23,7 @@ Contact Keeper is an Android application that allows users to manage their conta
 - **Material3 UI:** Modern UI components using Material3.
 
 ## Screenshots
-
-![1](https://github.com/GeniusApk/Contact-Keeper/assets/101592615/d7d4933d-55f0-4384-9f4f-196e6ec0c25a)
-
-![1](https://github.com/GeniusApk/Contact-Keeper/assets/101592615/96c24780-7493-46fa-b190-e5e272fb2722)
+![IND](https://github.com/GeniusApk/Contact-Keeper/assets/101592615/3c4a6150-112d-49f0-8c08-6987c0687839)
 
 
 
